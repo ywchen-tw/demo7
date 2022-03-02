@@ -3,8 +3,8 @@ title: ATOC Technology committee
 superuser: true
 role: Professor of Artificial Intelligence
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: ATOC CU Boulder
+  url: https://www.colorado.edu/atoc/
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 interests:
