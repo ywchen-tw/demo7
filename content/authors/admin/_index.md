@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: ATOC Technology committee
 superuser: true
 role: Professor of Artificial Intelligence
 organizations:
